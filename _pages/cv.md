@@ -5,66 +5,63 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "assets/Damayanti Chakraborty Resume (7).pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [dac399@cornell.edu](mailto:dac399@cornell.edu) | | | **Phone:** +607 379 0560
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in design and machining. Passionate about the automotive and aerospace industry and eager to apply my knowledge in real-world applications.
 
 ---
 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  GPA: 4.1/4.3 | Graduation: May 2027
 
-- **[High School Name]**  
-  *High School Diploma*  
-  Graduation: [Month, Year]
+- **United World College of South East Asia**  
+  *International Baccalaureate Diploma Programme*  
+  Graduation: May 2027
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Software:** Solidworks, HSMWorks, ANSYS FEA, Fusion 360
+- **Programming:** MATLAB, Java
+- **Tools:** 3D Printing, Laser Cutting, Manual Mill/Lathe, CNC Mill/Lathe, Power Tools
 
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **Dog Clutch**:  
+  *I was responsible for designing, validating, and manufacturing the dog clutch on Cornell Baja's TG21 car. The dog clutch is used to switch our car between two-wheel drive and four-wheel drive.]*  
+  - Reduce the overall weight of the dog clutch by 23.7%
+  - Improved performacne and reliability of engagement
+  - Improve ease of machining in-house components
+  - Improved serviceability
 
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **Spiral Bevel Gears**:  
+  *This year I am reponsible for designing and validating the gears on Cornell Baja's new Car TG22's gearbox. It transfers torquw from the rest of the driveline to a differential, which then sends powers to our front wheels.*  
+  - Aimed to increase the gear ratio by 15% with <10% increase
+  - Aimed to eliminate pitting
+  - More reliable gear analysis
 
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **Rapid Prototyping Lab - Technician**  
+  [Oct 2024] - [Present]  
+  - Operate and maintain 12+ 3D printers and laser cutters in a student-run lab (Bambu, FormLabs, Stratasys, etc.)
+  - Proctor open hours and advise Mechanical Engineering students and faculty on 3D prints and laser-cut designs 
 
----
-
-#### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
 
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Member of Cornell Baja Racing, RPL, Davis Scholar, Alpha Chi Omega   
 
 ---
 

@@ -7,4 +7,4 @@ image: /assets/images/radio-machine-cad.jpg
 ---
 
 Full report can be found here:
-[Report]({{"assets/MAE 3270 Final HW.pdf" | relative_url }}) in PDF format.
+[Report]({{"/assets/MAE 3270 Final HW.pdf" | relative_url }}) in PDF format.
